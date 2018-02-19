@@ -9,7 +9,7 @@ Describe react-custom-form here.
 [build-badge]: https://img.shields.io/travis/nenu-git/react-custom-form/master.png?style=flat-square
 [build]: https://travis-ci.org/nenu-git/react-custom-form
 
-[npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
+[npm-badge]: https://img.shields.io/npm/v/react-custom-form.png?style=flat-square
 [npm]: https://www.npmjs.org/package/react-custom-form
 
 [coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
