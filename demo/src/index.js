@@ -23,9 +23,9 @@ class App extends Component {
         </header>
         <br />
         <Form ref={form => (this.form = form)} onSubmit={this.handleSubmit}>
-          <TextField name="username" label="Username" />
-          <TextField name="city" label="City" />
-          <TextField name="test" label="Test" />
+          <TextField type="text" name="username" label="Username" />
+          <TextField type="text" name="city" label="City" />
+          <TextField type="checkbox" name="test" label="Test" />
         </Form>
       </div>
     );
