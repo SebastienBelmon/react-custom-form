@@ -12,5 +12,5 @@ Describe react-custom-form here.
 [npm-badge]: https://img.shields.io/npm/v/react-custom-form.png?style=flat-square
 [npm]: https://www.npmjs.org/package/react-custom-form
 
-[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/user/repo
+[coveralls-badge]: https://img.shields.io/coveralls/nenu-git/react-custom-form/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/nenu-git/react-custom-form
